@@ -1,21 +1,20 @@
 h1 {
-color: darkgreen;
+color: olive;
 border: solid 10px;
 }
 
 body {
 background-color: darkolivegreen;
-padding: 20px;
+padding: 50px;
 }
 
 img {
 height: 200px;
 border-radius: 100px;
 border: solid 25px olive;
-padding: 20px;
 }
 
 .test {
-color: green;
+color: olive;
 font-size: 60px;
 }
