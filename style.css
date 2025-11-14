@@ -10,6 +10,7 @@ background-color: black;
 img {
 height: 200px;
 border-radius: 100px;
+border: solid 25px white;
 }
 
 .test {
