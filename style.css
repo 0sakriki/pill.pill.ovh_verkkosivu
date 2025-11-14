@@ -6,6 +6,10 @@ body {
 background-color: black;
 }
 
+img {
+height: 100px;
+}
+
 .test {
 color: green;
 font-size: 60px;
