@@ -1,6 +1,8 @@
 h1 {
-color: olive;
-border: solid 10px;
+color: darkolivegreen;
+border-radius: 100px;
+text-align: center;
+background-color: olive;
 }
 
 body {
