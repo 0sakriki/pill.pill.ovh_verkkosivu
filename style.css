@@ -16,7 +16,8 @@ margin: 30px;
 img {
 height: 200px;
 border-radius: 100px;
-border: solid 25px olive;
+border: solid 20px olive;
+margin: 30px;
 }
 
 .test {
